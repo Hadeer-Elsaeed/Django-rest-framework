@@ -1,9 +1,13 @@
 # Django-rest-framework
 Make new app :
-1- makedir env 
+1- makedir env
+
 2- python3 -m venv env/library_project
+
 3- source env/library_project/bin/activate
+
 4- pip install Django==3.0.*
+
 5- django-admin startproject library
 
 
